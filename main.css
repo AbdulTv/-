@@ -1,0 +1,157 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+.container {
+    max-width: 100%;
+    width: 1220px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    display: flex;
+    border: solid 2px rgba(65, 32, 7, 0.559);
+    border-top: #fff;
+    border-left: #fff;
+    border-right: #fff;
+    height: 90px;
+    background-color: #fff;
+}
+
+.text1 {
+    color: #a08383;
+}
+
+.logo1 {
+    width: 205px;
+    height: 55px;
+}
+
+
+
+.p1 {
+    color: #464b04;
+    padding: 7px;
+}
+
+.span5-img {
+    width: 45px;
+}
+
+.nav1 {
+    display: flex;
+    
+}
+
+.li-a1 {
+    display: flex;
+    align-items: center;
+    color: #a08383
+}
+
+.li-a2 {
+    display: flex;
+    align-items: center;
+    color: #454e04
+}
+
+.li-img1 {
+    width: 34px;
+    height: 32px;
+}
+
+.ul1 {
+    display: flex;
+    gap: 90px;
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+    display: flex;
+}
+
+.buttonlar {
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.button1 {
+    margin-right: 40px;
+    border: solid 3px rgb(87, 117, 10);
+    width: 150px;
+    height: 40px;
+    border-radius: 12px;
+    background-color: #fff;
+}
+
+.section1 {
+    height: 140px;
+    display: flex;
+    gap: 865px;
+}
+
+.Magazin {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    .Magazin-h3 {
+        color: #0D0C5C;
+    }
+}
+
+.Tarix {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+    .Tarix-h3 {
+        color: #788009;
+    }
+}
+
+.father {
+    display: flex;
+    text-align: center;
+    gap: 10px;
+}
+
+.img-box {
+    width: 184px;
+    height: 150px;
+}
+
+.img-box2 {
+    width: 18px;
+    
+}
+
+.box {
+    border: solid 2px #fff;
+    background-color: #fff;
+    border-radius: 12px;
+    text-align: center;
+    width: 270px;
+    height: 270px;
+}
+
+strong {
+    margin-right: 30px;
+}
+
+h4 {
+    margin-top: 30px;
+}
